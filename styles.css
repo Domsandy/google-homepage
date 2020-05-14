@@ -3,3 +3,44 @@ body {
     font-family: arial,sans-serif;
     color: #222;
 }
+
+header {
+    font-family: arial,sans-serif;
+    font-size: 15px;
+}
+footer{
+    font-family: arial,sans-serif;
+    font-size: 15px;
+}
+
+.logo {
+    padding-top: 110px;
+}
+
+ul {
+    list-style-type: none;
+    display: inline;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+        display: inline;
+        float: left;
+      }
+    
+.headerright {
+          float: right;
+          
+      }
+
+.footerright {
+         float: right;
+      }
+
+.search{
+        padding: 0px 40px;
+        margin: 5px 0 5px 0;
+      }
+      
